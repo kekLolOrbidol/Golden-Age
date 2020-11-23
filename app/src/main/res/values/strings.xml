@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Golden Age</string>
+
+    <!--MAIN MENU ITEMS-->
+    <string-array name="sections">
+        <item>Start game</item>
+        <item>My levels</item>
+        <item>Highscores</item>
+        <item>Create level</item>
+        <item>Change user</item>
+        <item>Exit game</item>
+    </string-array>
+
+    <!--LOGIN PAGE ITEMS-->
+    <string-array name="login_options">
+        <item>Login</item>
+        <item>Create user</item>
+    </string-array>
+
+    <!--DIFFICULTY ALERT-->
+    <string-array name="speeds">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="diff">Select difficulty:</string>
+
+    <!--ARE YOU SURE ALERT-->
+    <string name="sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--REMOVE LEVEL FROM PLAYABLE LIST ALERT HEADERS-->
+    <string name="alert_unlink">Unlink level</string>
+    <string name="alert_delete">Delete level</string>
+
+    <!--GAME OVER ALERT-->
+    <string name="score_title">Game over!</string>
+    <string name="score_body">Your score:&#160;</string>
+
+    <!--ALERT NEUTRAL BUTTON-->
+    <string name="ok">Okay</string>
+    <string name="facebook_app_id">1550288085160173</string> <string name="fb_login_protocol_scheme">fb1550288085160173</string>
+
+    <!--BUTTONS-->
+    <string name="button_add">Add</string>
+    <string name="button_more_lvl">More levels</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_link">Link</string>
+    <string name="button_unlink">Unlink</string>
+    <string name="button_back">Back</string>
+    <string name="button_save">Save</string>
+
+    <!--HINTS-->
+    <string name="hint_level_name">Level name:</string>
+    <string name="hint_username">Username:</string>
+
+    <!--ERRORS-->
+    <string name="name_empty_error">Name should not be empty!</string>
+    <string name="short_snek_error">Too short snek!</string>
+    <string name="name_error">Name is already used!</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="min_level_width">6</integer>
+    <integer name="min_level_height">4</integer>
+    <integer name="max_level_width">20</integer>
+    <integer name="max_level_height">25</integer>
+
+    <string name="x_error">x should be 6&#8211;20!</string>
+    <string name="y_error">y should be 4&#8211;25!</string>
+    <string name="snek_size_error">Minimum snek size is 2 units.</string>
+    <integer name="min_snek_size">2</integer>
+
+    <string name="empty_string"></string>
+
+    <integer name="slow_move">1000</integer>
+    <integer name="medium_move">700</integer>
+    <integer name="fast_move">500</integer>
+</resources>
